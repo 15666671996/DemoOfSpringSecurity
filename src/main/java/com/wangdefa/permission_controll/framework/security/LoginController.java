@@ -1,4 +1,4 @@
-package com.wangdefa.permission_controll.other.security;
+package com.wangdefa.permission_controll.framework.security;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
